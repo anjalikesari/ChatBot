@@ -25,7 +25,7 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny"],
   ["dumbshit","fuck","hoe","whore","loser","meanie"]
-  ["Tell me joke","tell me joke","make me laugh"]
+  ["Tell me joke", "tell me joke", "make me laugh"]
 ]
 
 // Possible responses, in corresponding order
