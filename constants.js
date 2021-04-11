@@ -26,6 +26,7 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny","joke"],
   ["dumbshit","fuck","hoe","whore","loser","meanie"]
+  ["Tell me a joke","tell me a joke","make me laugh"]
 ]
 
 // Possible responses, in corresponding order
@@ -60,6 +61,11 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"],
   ["don't say mean words!"]
+  ["What do you call a pig that does karate? A pork chop.",
+   "Why did the bike fall over? It was two tired.",
+   "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+   "Why are there gates around cemeteries? Because people are dying to get in.",
+   "Why shouldn't you write with a broken pen? Because it's pointless."]
 ]
 
 // Random for any other user input
