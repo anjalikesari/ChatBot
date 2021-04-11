@@ -59,7 +59,7 @@ const replies = [
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
   ["Haha!","Good one!"],
-  ["don't say mean words!"]
+  ["don't say mean words jay!"]
 ]
 
 // Random for any other user input
