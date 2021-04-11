@@ -26,9 +26,9 @@ const prompts = [
   ["haha","ha","lol","hehe","funny"],
   ["dumbshit","fuck","hoe","whore","loser","meanie"],
   ["Tell me joke", "tell me joke", "make me laugh"],
-//  ["Tell me another joke","tell me another joke", "tell me another one", "Tell me another one", "tell me one more", "Tell me another"],
-//  ["tell me another"],
-//  ["why"]
+  ["Tell me another joke","tell me another joke", "tell me another one", "Tell me another one", "tell me one more", "Tell me another"],
+  ["tell me another"],
+  ["why"]
 ]
 
 // Possible responses, in corresponding order
@@ -67,12 +67,9 @@ const replies = [
    "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
    "Why are there gates around cemeteries? Because people are dying to get in.",
    "Why shouldn't you write with a broken pen? Because it's pointless."],
-//  ["I think I've said enough", "you.", "What do you call train with bubblegum? A chew-chew train.", "Am I funny??", "I told my mom she was drawing her eyebrows to high, she looked surprised"],
-//  ["Why was 7 afraid of 9 on New Year's?"],
-//  ["because 
-//   9
-//   8
-//   7"]
+  ["I think I've said enough", "you.", "What do you call train with bubblegum? A chew-chew train.", "Am I funny??", "I told my mom she was drawing her eyebrows to high, she looked surprised"],
+  ["Why was 7 afraid of 9 on New Year's?"],
+  ["because... 9 8 7"]
 ]
 
 // Random for any other user input
