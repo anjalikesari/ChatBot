@@ -7,6 +7,10 @@ document.addEventListener("DOMContentLoaded", () => {
             inputField.value = "";
             output(input);
     }
+         if (e.code === "Enter") {
+      let input = inputField.value;
+      console.log(`I typed '${input}'`)
+    }
   });
 });
 // document.addEventListener("DOMContentLoaded", () => {
