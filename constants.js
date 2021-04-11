@@ -58,7 +58,7 @@ const replies = [
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
   ["Haha!","Good one!"],
-  ["don't say mean words!"]
+  ["don't say mean words!"],
   ["What do you call a pig that does karate? A pork chop.",
    "Why did the bike fall over? It was two tired.",
    "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
