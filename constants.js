@@ -24,7 +24,7 @@ const prompts = [
   ["no","not sure","maybe","no thanks"],
   [""],
   ["haha","ha","lol","hehe","funny"],
-  ["dumbshit","fuck","hoe","whore","loser","meanie"]
+  ["dumbshit","fuck","hoe","whore","loser","meanie"],
   ["Tell me joke", "tell me joke", "make me laugh"]
 ]
 
